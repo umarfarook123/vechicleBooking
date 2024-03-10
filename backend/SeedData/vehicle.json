@@ -1,0 +1,77 @@
+[
+    {
+        "wheelType": 2,
+        "vehicleType": "Cruiser",
+        "model": "Harley-Davidson X440"
+    },
+    {
+        "wheelType": 2,
+        "vehicleType": "Cruiser",
+        "model": "Indian Scout"
+    },
+    {
+        "wheelType": 2,
+        "vehicleType": "Cruiser",
+        "model": "Yamaha Bolt"
+    },
+    {
+        "wheelType": 2,
+        "vehicleType": "Sports",
+        "model": "Ducati Panigale V2"
+    },
+    {
+        "wheelType": 2,
+        "vehicleType": "Sports",
+        "model": "Kawasaki Ninja ZX-6R"
+    },
+    {
+        "wheelType": 2,
+        "vehicleType": "Sports",
+        "model": "Suzuki GSX-R1000"
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "Hatchback",
+        "model": "Toyota Yaris"
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "Hatchback",
+        "model": "Honda Fit"
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "Hatchback",
+        "model": "Volkswagen Golf"
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "Sedan",
+        "model": "Honda Civic"
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "Sedan",
+        "model": "Toyota Camry"
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "Sedan",
+        "model": "Nissan Altima"
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "SUV",
+        "model": "Ford Explorer"
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "SUV",
+        "model": "Jeep Grand Cherokee"
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "SUV",
+        "model": "Toyota RAV4"
+    }
+]

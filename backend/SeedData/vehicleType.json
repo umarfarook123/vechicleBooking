@@ -1,0 +1,37 @@
+[
+    {
+        "wheelType": 2,
+        "vehicleType": "Cruiser",
+        "status": true
+    },
+    {
+        "wheelType": 2,
+        "vehicleType": "Sports",
+        "status": true
+    },
+    {
+        "wheelType": 2,
+        "vehicleType": "Adventure",
+        "status": false
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "Hatchback",
+        "status": true
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "Sedan",
+        "status": true
+    },
+    {
+        "wheelType": 4,
+        "vehicleType": "SUV",
+        "status": true
+    },
+    {
+        "wheelType": 2,
+        "vehicleType": "Van",
+        "status": false
+    }
+]

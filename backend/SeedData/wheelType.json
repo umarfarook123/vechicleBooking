@@ -1,0 +1,19 @@
+[
+    {
+        "wheelType": 2,
+        "status": true
+    },
+    {
+        "wheelType": 3,
+        "status": false
+    },
+    {
+        "wheelType": 4,
+        "status": true
+    },
+    {
+        "wheelType": 8,
+        "status": false
+    }
+    
+]
